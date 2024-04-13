@@ -1,3 +1,9 @@
+Integrantes do projeto:
+
+Davi Moreira Cavalcante RA:22.123.115-2
+Mario Eugenio Silva RA: 22.123.097-2
+Kaique Silva de Lima 22.123.084-0 
+
 PROJETO_02 , um projeto completo voltado para o desenvolvimento de uma lista de tarefas utilizando a linguagem C.
 Este programa oferece uma gama de funcionalidades para ajudar você no gerenciamento de suas tarefas de forma eficiente e objetiva.
 
@@ -21,3 +27,4 @@ Salvar e Exporta Tarefas:
 
 Sair
  - Opção para encerrar o programa
+.-
