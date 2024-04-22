@@ -113,9 +113,8 @@ ERROS listar(Tarefa tarefas[], int *pos) {
 
 
 ERROS salvar(Tarefa tarefas[], int *pos){
-    FILE *f = fopen("tarefas.bin", "wb");
-    if(f == NULL)
-        return ABRIR;
+    
+ 
     char txt[] = ".txt";
     char nomeArq[100];
     printf("Entre com o nome do arquivo: ");
